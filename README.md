@@ -5,9 +5,9 @@
  [Pierre Marza](https://pierremarza.github.io/)<sup>1</sup>,
  [Laetitia Matignon](https://perso.liris.cnrs.fr/laetitia.matignon/)<sup>2</sup>,
  [Olivier Simonin](http://perso.citi-lab.fr/osimonin/)<sup>1</sup>,
- [Christian Wolf](https://chriswolfvision.github.io/www/)<sup>3</sup>
- 
+ [Christian Wolf](https://chriswolfvision.github.io/www/)<sup>3</sup> <br>
  <sup>1</sup>INSA Lyon, <sup>2</sup>Université Lyon 1, <sup>3</sup>Naver Labs Europe <br>
+in ICCV 2023
 
 <img src='images/graphical_abstract.png' width="50%" height="50%"/>
 
